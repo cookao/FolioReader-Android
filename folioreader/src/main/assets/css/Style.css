@@ -85,7 +85,7 @@ p {
 b, strong, th {font-weight: bolder !important;}
 
 /* Forced font overrides */
-code, kbd, pre, samp, tt {
+code, kbd, pre, samp, tt, button {
     font-family: monospace, monospace !important;
     font-size: 1rem;
 }
